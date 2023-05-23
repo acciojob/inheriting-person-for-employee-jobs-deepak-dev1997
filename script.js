@@ -31,9 +31,6 @@ Employee.prototype.jobGreet = function() {
 var person = new Person("John", 30);
 person.greet(); // Output: Hello, my name is John, I am 30 years old.
 
-var employee = new Employee("Jane", 25, "Software Engineer");
-employee.greet(); // Output: Hello, my name is Jane, I am 25 years old.
-employee.jobGreet(); // Output: Hello, my name is Jane, I am 25 years old, and my job title is Software Engineer.
 
 
 // Do not change code below this line
