@@ -28,8 +28,6 @@ Employee.prototype.jobGreet = function() {
 };
 
 // Example usage:
-var person = new Person("John", 30);
-person.greet(); // Output: Hello, my name is John, I am 30 years old.
 
 
 
